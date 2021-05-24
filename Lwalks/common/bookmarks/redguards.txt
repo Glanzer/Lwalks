@@ -1,0 +1,9 @@
+bookmarks = {
+	bookmark = {
+		name = "REDGUARDS_NAME"
+		desc = "REDGUARDS_DESC"
+		date = 1916.1.1.12
+		picture = "GFX_select_date_1916"
+		default_country = "SOV"
+	}
+}
