@@ -4,5 +4,5 @@ tags={
 	"Events"
 	"National Focuses"
 }
-name="Lenin walks again"
+name="Lenin walks again."
 supported_version="1.10.5"
